@@ -4,7 +4,7 @@ const URL="https://covid19.mathdro.id/api";
 let app=angular.module('MyApp',[]);
 app.controller('MyCtrl',($scope,$http) => {
 
-    $scope.title="Stay Home Stay Safe";
+    $scope.title="STAY HOME STAY SAFE";
 
     console.log("App Loaded")
 

@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+.container{
+    display: flex;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+ 
+.text-center{
+    font-weight: bold;
+
+}
